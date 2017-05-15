@@ -1,0 +1,13 @@
+region:
+
+function_name: menuget
+handler: service.handler
+role: pizzalambda
+description: GET
+
+aws_access_key_id:
+aws_secret_access_key:
+
+# dist_directory: dist
+# timeout: 15
+# memory_size: 512
